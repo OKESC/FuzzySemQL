@@ -169,3 +169,10 @@ See CONTRIBUTING.md for guidelines.
 
 FastText: Library for efficient text representation and classification
 Microsoft Docs: SQL CLR Integration
+
+**10. Sponsor**
+
+Tips appreciated! 
+
+https://github.com/sponsors/OKESC
+https://buymeacoffee.com/OKESC
